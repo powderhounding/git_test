@@ -1,4 +1,1 @@
-Adding this text from Emacs.
-
-Adding this text using Nano from command line.
-
+This is my first git project in TOP.  I am Anders!
