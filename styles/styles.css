@@ -1,5 +1,30 @@
-h1,p,li {
-    color: rgb(89, 89, 241);
-
-    font-family: 'Comic Neue', cursive;
+html {
+    background-color: rgb(248, 248, 198);
+    font-size: 12px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: 'Comic Neue', cursive; /* this should be the rest of the output you got from Google fonts */
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: chocolate;
+    text-shadow: 3px 3px 1px black;
+}
+img[src]
+img {
+    display: block;
+    margin: 0 auto;
+}
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: rgb(243, 197, 112);
+    padding: 20px 20px 20px 20px;
+    border: 5px solid black;
 }
